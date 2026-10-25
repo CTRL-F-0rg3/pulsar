@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Pulsar
+GenericName=Markdown Editor
+Comment=Markdown editor with live preview
+Exec=pulsar %F
+Icon=pulsar
+Terminal=false
+Categories=Office;TextEditor;Development;
+Keywords=markdown;md;notes;editor;write;
+MimeType=text/markdown;text/x-markdown;
+StartupNotify=true
+StartupWMClass=pulsar
